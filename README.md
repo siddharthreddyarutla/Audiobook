@@ -7,3 +7,10 @@ To read PDF file using Python pip install pypdf2 To Read text (Text to speech) p
 
 <h2> Note </h2>
 This code can read all the printable text from a PDF file/ Book
+
+<h1>Sample input</h1>
+
+Input for the recording from the python tutorial
+![input](https://user-images.githubusercontent.com/70971734/140655736-e3ea7274-7416-40dc-9f21-4b83811be6b3.jpeg)
+
+
