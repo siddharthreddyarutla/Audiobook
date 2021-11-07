@@ -17,7 +17,6 @@ Input for the recording from the python tutorial
 <h1>References</h1>
 
 1. https://pypi.org/project/pyttsx3/
-<br>
 2. https://pypi.org/project/PyPDF2/
  
 
