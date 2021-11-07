@@ -14,4 +14,8 @@ Input for the recording from the python tutorial
 
 ![input](https://user-images.githubusercontent.com/70971734/140655736-e3ea7274-7416-40dc-9f21-4b83811be6b3.jpeg)
 
+<h1>Reference</h1>
+
+https://pypi.org/project/pyttsx3/
+https://pypi.org/project/PyPDF2/
 
